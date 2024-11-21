@@ -1,0 +1,9 @@
+pillow==10.4.0
+pynput==1.7.7
+pypiwin32==223
+pystray==0.19.5
+pywin32==308
+setuptools==75.6.0
+six==1.16.0
+Socket-Singleton==1.0.0
+win10toast==0.9
